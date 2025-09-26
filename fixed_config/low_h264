@@ -1,0 +1,10 @@
+{
+	"codec": "-c:v libx264",
+	"preset": "-preset medium",
+	"sample": "-crf 28",
+	"audio": "-c:a copy"
+}
+
+
+
+

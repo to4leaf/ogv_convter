@@ -1,0 +1,10 @@
+{
+	"codec": "-c:v libvpx",
+	"preset": "-preset medium",
+	"sample": "-b:v 5000k",
+	"audio": "-c:a copy"
+}
+
+
+
+
